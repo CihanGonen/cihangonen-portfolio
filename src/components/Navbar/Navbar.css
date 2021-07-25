@@ -1,0 +1,22 @@
+.navbar-bg{
+  background-color:#F5F1E3;
+  border:3px solid #050505;
+  color:#2BC9DE;
+}
+.expanded-bg{
+  background-color:#F5F1E3;
+  border:3px solid #050505;
+  color:#F5F1E3;
+}
+.link-bg{
+  background-color:#050505;
+}
+.link-bg:hover,
+.link-bg:focus {
+  background-color:#050505;
+  color:#2BC9DE;
+}
+.active{
+  background-color:#1B9AAA;
+  color:#F5F1E3;
+}

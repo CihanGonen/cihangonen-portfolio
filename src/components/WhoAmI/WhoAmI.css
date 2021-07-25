@@ -1,0 +1,48 @@
+.circle{
+  border:3px solid #1B9AAA;
+  border-radius:50%;
+}
+.sifirbes{
+  color:#050505;
+}
+span{
+  color:#1B9AAA;
+}
+.slider{
+  height:45px;
+  overflow:hidden;
+}
+.slider div{
+  height:50px;
+  margin-bottom:50px;
+}
+.slider-text1{
+  animation:slider 20s ease-in infinite;
+}
+@keyframes slider{
+  0% {margin-top:-400px;}
+  5% {margin-top:-300px;}
+
+  12% {margin-top:-300px;}
+  17% {margin-top:-200px;}
+
+  25% {margin-top:-200px;}
+  30% {margin-top:-100px;}
+
+  37% {margin-top:-100px;}
+  42% {margin-top:0px;}
+
+  50% {margin-top:0px;}
+  55% {margin-top:-100px;}
+
+  62% {margin-top:-100px;}
+  67% {margin-top:-200px;}
+
+  75% {margin-top:-200px;}
+  80% {margin-top:-300px;}
+
+  87% {margin-top:-300px;}
+  92% {margin-top:-400px;}
+
+  100% {margin-top:-400px;}
+}

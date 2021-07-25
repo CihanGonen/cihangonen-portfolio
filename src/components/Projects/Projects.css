@@ -1,0 +1,11 @@
+a{
+  color:#1B9AAA;
+}
+.projects i{
+  font-size:2rem;
+}
+.swiper-button-next,
+.swiper-button-prev,
+.swiper-pagination-bullet-active{
+  color:#1B9AAA ;
+}
