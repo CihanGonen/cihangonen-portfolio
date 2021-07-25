@@ -44,8 +44,8 @@ const Projects = ()=>{
                   Also if you like me and love to study with ambiance sounds you can choose them on the top.
                 </p>
                 <div className="pt-5 font-bold">
-                  <a className="block" target='_blank' href="https://studytimerbycihan.herokuapp.com/">Live App</a>
-                  <a className="block pt-2" target='_blank' href="https://github.com/CihanGonen/study-timer">Source Code</a>
+                  <a className="block" target='_blank' rel="noreferrer" href="https://studytimerbycihan.herokuapp.com/">Live App</a>
+                  <a className="block pt-2" target='_blank' rel="noreferrer" href="https://github.com/CihanGonen/study-timer">Source Code</a>
                 </div>
               </div>
               <div className="w-11/12 lg:w-5/12">

@@ -21,7 +21,10 @@ const WhoAmI = ()=>{
       </div>
       <div className="flex h-20 lg:h-36 items-center justify-center">
         <div className="slider-wrapper flex justify-center gap-5 text-xl xl:text-2xl">
-          <span>/*</span>
+          <div>
+          <span>/</span>
+          <span>*</span>
+          </div>
           <p>I like </p>  
           <div className="slider text-center">
             <div className="slider-text1"> self improvement</div>
