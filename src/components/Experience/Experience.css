@@ -1,3 +1,9 @@
 .my-hr{
   background: linear-gradient(90deg,#050505 0%,#1B9AAA 100%);
 }
+
+@media screen and(max-width:500px) {
+  .exp-wrap{
+    height:800px;
+  }
+}
