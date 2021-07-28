@@ -9,8 +9,7 @@ body {
   font-family: 'Public Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:#DDDBCB;
-  color:#050505;
+  background: linear-gradient(15deg, #2BC9DE  0%, black 100%);
 }
 ::-webkit-scrollbar {
   width: 15px;
