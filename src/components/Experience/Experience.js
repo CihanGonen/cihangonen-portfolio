@@ -35,7 +35,7 @@ const Experience = ()=>{
             </h3> 
           </div>
           <p className="pt-3">
-            I learned algorithmic thinking and solved many problems using Java and C#. I also learned and used agile and scrum methodologies in my school projects.
+          I studied just English for 2 semesters. I discussed subjects in english and wrote many essays and did many presentations.
           </p>
         </div>
         <div className="mt-5">
@@ -48,7 +48,7 @@ const Experience = ()=>{
             </h3>
           </div>
           <p className="pt-3">
-             I studied just English for 2 semesters. I discussed subjects in english and wrote many essays and did many presentations.
+             I learned algorithmic thinking and solved many problems using Java and C#. I also learned and used agile and scrum methodologies in my school projects.
           </p>
         </div>
       </div>

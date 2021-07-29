@@ -8,8 +8,14 @@ const WhoAmI = ()=>{
       </div>
       <div className="p-5 pb-0 mx-auto"> 
       <div>
-        <h1 className="text-center lg:text-left text-xl md:text-2xl lg:text-4xl">
+        <h1 className="myself text-center lg:text-left text-xl md:text-2xl lg:text-4xl">
           Hey, I'm Cihan Gönen.
+          <div className="pl-5 inline-block">
+            <div className="flex gap-5 justify-center items-center">
+              <a href="www.linkedin.com/in/cihan-gonen"><i class="devicon-linkedin-plain"></i></a>
+              <a href="https://github.com/CihanGonen"><i class="devicon-github-original"></i></a>
+            </div>
+          </div>
         </h1>
         <h3 className="text-center lg:text-left pt-3 text-lg md:text-xl lg:text-2xl">
           Javascript developer from İzmir, Turkey

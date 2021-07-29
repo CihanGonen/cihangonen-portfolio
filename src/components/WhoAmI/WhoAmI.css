@@ -2,6 +2,9 @@
   border:3px solid #1B9AAA;
   border-radius:50%;
 }
+.myself a i{
+  font-size:2rem;
+}
 .sifirbes{
   color:#050505;
 }
