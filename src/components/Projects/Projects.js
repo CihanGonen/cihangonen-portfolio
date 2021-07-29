@@ -78,7 +78,7 @@ const Projects = ()=>{
                 It's a udemy like web-page. There are 3 types of users. Student, teacher, admin. As a teacher you can create courses and see your students. As a student you can enroll to courses and as an admin you 
                 can manage all courses and students. Only backend.
                 </p>
-                <div className="flex justify-center items-center pt-5 gap-5 font-bold">
+                <div className="flex justify-center items-center gap-5 font-bold">
                   <a className="block" target='_blank' rel="noreferrer" href="https://smartedu-project.herokuapp.com/">Live App</a>
                   <a className="block" target='_blank' rel="noreferrer" href="https://github.com/CihanGonen/SmartEduProject">Source Code</a>
                 </div>
@@ -111,7 +111,7 @@ const Projects = ()=>{
                 <p className="text-sm">
                 It's my first React project. I wanted to include the first one. It's an app that you can save an exercise and update it with new informations. Your exercise page also displays your improvement. You can delete them or add a new one whenever you want.
                 </p>
-                <div className="flex justify-center items-center pt-5 gap-5 font-bold">
+                <div className="flex justify-center items-center gap-5 font-bold">
                   <a className="block" target='_blank' rel="noreferrer" href="https://track-your-progress.herokuapp.com/">Live App</a>
                   <a className="block" target='_blank' rel="noreferrer" href="https://github.com/CihanGonen/trackYourProgress">Source Code</a>
                 </div>

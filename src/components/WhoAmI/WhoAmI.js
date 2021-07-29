@@ -12,8 +12,8 @@ const WhoAmI = ()=>{
           Hey, I'm Cihan Gönen.
           <div className="pl-5 inline-block">
             <div className="flex gap-5 justify-center items-center">
-              <a href="www.linkedin.com/in/cihan-gonen"><i class="devicon-linkedin-plain"></i></a>
-              <a href="https://github.com/CihanGonen"><i class="devicon-github-original"></i></a>
+              <a target='_blank' rel="noreferrer" href="https://linkedin.com/in/cihan-gonen"><i class="devicon-linkedin-plain"></i></a>
+              <a target='_blank' rel="noreferrer" href="https://github.com/CihanGonen"><i class="devicon-github-original"></i></a>
             </div>
           </div>
         </h1>
