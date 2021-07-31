@@ -61,6 +61,35 @@ const Projects = ()=>{
           </div>
         </SwiperSlide>
         <SwiperSlide>
+          <div className="flex flex-col gap-5 px-6 pb-8 lg:pb-12 items-center">
+            <div class="img-wrapper pt-2 w-11/12 lg:w-6/12 ">
+              <img className="project-img rounded-md border border-black" width='100%' alt='proje' src='./images/sunnySide.png'></img>  
+            </div>
+            <div className="w-11/12 flex flex-col pl-2 lg:flex-row justify-around">
+              <div className="w-11/12 lg:w-5/12">
+                <div className="projects flex justify-center gap-5">
+                  <i className="devicon-html5-plain"></i>
+                  <i class="devicon-sass-original"></i>
+                  <i className="devicon-javascript-plain"></i>
+                </div>
+                <h2 className="pt-2 text-xl">SunnySide Landing Page</h2>
+                <p className="text-sm">
+                  It's a landing page. I got it's design from Frontend Mentor and created it using html, sass and javascript. It's fully responsive. Do not forget the check the mobile version.
+                </p>
+                <div className="flex justify-center items-center pt-5 gap-5 font-bold">
+                  <a className="block" target='_blank' rel="noreferrer" href="https://cihangonen.github.io/sunnySide-landingPage/">Live App</a>
+                  <a className="block" target='_blank' rel="noreferrer" href="https://github.com/CihanGonen/sunnySide-landingPage">Source Code</a>
+                </div>
+              </div>
+              <div className="w-11/12 lg:w-5/12 self-center">
+                <p className="text-sm">
+                  At first I created variables and globals scss files. When I'm coding landing pages I start at the top and untill I finish it on both mobile and desktop I don't keep going. So I also started from the header in this project and created every part like that. I used javascript for responsive menu.
+                </p>
+              </div>
+            </div>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
         <div className="flex flex-col gap-5 px-6 pb-8 lg:pb-12 items-center">
             <div class="img-wrapper pt-2 w-11/12 lg:w-6/12">
               <img className="project-img rounded-md" width='100%' alt='proje' src='./images/smartEdu.png'></img>  
@@ -94,7 +123,7 @@ const Projects = ()=>{
         <SwiperSlide>
         <div className="flex flex-col gap-5 px-6 pb-8 lg:pb-12 items-center">
             <div class="img-wrapper pt-2 w-11/12 lg:w-6/12">
-              <img className="project-img rounded-md" width='100%' alt='proje' src='./images/trackYourProgress.png'></img>  
+              <img className="project-img rounded-md border border-black" width='100%' alt='proje' src='./images/trackYourProgress.png'></img>  
             </div>
             <div className="w-11/12 flex flex-col pl-2 lg:flex-row justify-around">
               <div className="w-11/12 lg:w-5/12">

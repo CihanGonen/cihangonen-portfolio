@@ -13,6 +13,10 @@ const MyStack = ()=>{
           <p className="font-semibold pt-2">CSS3</p>
         </div>
         <div className="w-4/12 lg:w-2/12 text-center">
+          <i class="devicon-sass-original"></i>
+          <p className="font-semibold pt-2">Sass</p>
+        </div>
+        <div className="w-4/12 lg:w-2/12 text-center">
           <i className="devicon-javascript-plain"></i>
           <p className="font-semibold pt-2">JavaScript</p>
         </div>
