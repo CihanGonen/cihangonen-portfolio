@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cihangonen-portfolio/static/css/main.236f5a5c.chunk.css",
+    "main.js": "/cihangonen-portfolio/static/js/main.37ceb9fc.chunk.js",
+    "main.js.map": "/cihangonen-portfolio/static/js/main.37ceb9fc.chunk.js.map",
+    "runtime-main.js": "/cihangonen-portfolio/static/js/runtime-main.a5b7536b.js",
+    "runtime-main.js.map": "/cihangonen-portfolio/static/js/runtime-main.a5b7536b.js.map",
+    "static/css/2.9789f960.chunk.css": "/cihangonen-portfolio/static/css/2.9789f960.chunk.css",
+    "static/js/2.eed6bff2.chunk.js": "/cihangonen-portfolio/static/js/2.eed6bff2.chunk.js",
+    "static/js/2.eed6bff2.chunk.js.map": "/cihangonen-portfolio/static/js/2.eed6bff2.chunk.js.map",
+    "static/js/3.c5033f8a.chunk.js": "/cihangonen-portfolio/static/js/3.c5033f8a.chunk.js",
+    "static/js/3.c5033f8a.chunk.js.map": "/cihangonen-portfolio/static/js/3.c5033f8a.chunk.js.map",
+    "index.html": "/cihangonen-portfolio/index.html",
+    "static/css/2.9789f960.chunk.css.map": "/cihangonen-portfolio/static/css/2.9789f960.chunk.css.map",
+    "static/css/main.236f5a5c.chunk.css.map": "/cihangonen-portfolio/static/css/main.236f5a5c.chunk.css.map",
+    "static/js/2.eed6bff2.chunk.js.LICENSE.txt": "/cihangonen-portfolio/static/js/2.eed6bff2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b7536b.js",
+    "static/css/2.9789f960.chunk.css",
+    "static/js/2.eed6bff2.chunk.js",
+    "static/css/main.236f5a5c.chunk.css",
+    "static/js/main.37ceb9fc.chunk.js"
+  ]
+}
